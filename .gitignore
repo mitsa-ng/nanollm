@@ -7,3 +7,5 @@ __pycache__/
 .DS_Store
 tests/golden/out*
 GOAL.md
+tests/golden/logits.txt
+tests/golden/tokens.txt
