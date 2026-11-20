@@ -1,0 +1,9 @@
+build/
+models/
+*.nnlm
+*.tok.tsv
+*.merges
+__pycache__/
+.DS_Store
+tests/golden/out*
+GOAL.md
